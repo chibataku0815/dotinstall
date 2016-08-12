@@ -1,0 +1,21 @@
+{
+  "name": "game01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-imagemin": "^3.0.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-styledocco": "0.0.3",
+    "imagemin-jpegtran": "^5.0.2",
+    "imagemin-optipng": "^5.2.0",
+    "imagemin-pngquant": "^5.0.0"
+  }
+}

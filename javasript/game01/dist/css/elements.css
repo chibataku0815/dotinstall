@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/*
+##レイアウト用モジュール
+###画像+テキスト
+`.l-imgR`の説明文。
+```
+<div class="l-imgR">
+    <img src="http://placehold.it/350x150" alt="" class="l-imgR-image">
+    <div class="l-imgR-textarea">
+        <p class="l-imgR-sentence">テキストテキストテキストテキストテキスト</p>
+    </div>
+</div>
+```
+*/
+.l-imgR {
+  overflow: hidden; }
+  .l-imgR .l-imgR-image {
+    float: right;
+    margin: 0 0 15px 15px; }
+
+.mt10 {
+  margin-top: 10px; }
